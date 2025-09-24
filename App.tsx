@@ -31,7 +31,7 @@ const App: React.FC = () => {
             Auto Slug Generator
           </h1>
           <p className="mt-3 text-lg text-slate-400 max-w-2xl mx-auto">
-            Instantly create clean, URL-friendly slugs from any text.
+            Công cụ chuyển đổi tất cả dạng văn bản sang slug nhanh gọn, tiết kiệm thời gian
           </p>
         </header>
 
@@ -75,7 +75,7 @@ const App: React.FC = () => {
         </main>
         
         <footer className="text-center mt-12 text-slate-500 text-sm">
-            <p>Built with React & Tailwind CSS.</p>
+            <p>Built with LewisLam</p>
         </footer>
       </div>
     </div>
