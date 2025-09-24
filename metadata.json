@@ -1,0 +1,5 @@
+{
+  "name": "Auto Slug Generator",
+  "description": "A tool to automatically generate URL-friendly slugs from text, with options for customization. Inspired by appdevtools.com/slug-generator.",
+  "requestFramePermissions": []
+}
